@@ -1,0 +1,2 @@
+icc -std=c99 -I./include/ -o a.out LSTM_test.c main.c -L./include/ libkeras2c.a -lm
+
