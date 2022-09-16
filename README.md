@@ -12,3 +12,7 @@ To run this code, please:
 
 (3) run ./make.
 
+Please contact tangdd@mail.bnu.edu.cn or WeChat(tddiceflower) if there's any questions.
+
+Diandong Tang
+Beijing Normal University
