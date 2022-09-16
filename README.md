@@ -1,7 +1,7 @@
-Tully's Model in Surface Hopping, LSTM Version
+Fewest Switches Surface Hopping with LSTM in Tully's Models 
 
-C Programming by JiaLY
-C++/LSTM compatibility done by TangDD
+C Programming by JiaLY;
+C++/LSTM compatibility done by TangDD.
 
 To run this code, please:
 
