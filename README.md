@@ -1,6 +1,6 @@
 Fewest Switches Surface Hopping with LSTM in Tully's Models 
 
-C Programming by JiaLY;
+C Programming by JiaLY;\\
 C++/LSTM compatibility done by TangDD.
 
 To run this code, please:
@@ -14,5 +14,5 @@ To run this code, please:
 
 Please contact tangdd@mail.bnu.edu.cn or WeChat(tddiceflower) if there's any questions.
 
-Diandong Tang
-Beijing Normal University
+Diandong Tang\\
+Department of Chemistry, Beijing Normal University
